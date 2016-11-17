@@ -24,7 +24,7 @@ stored locally?
 
     Fill in your answer here
 
-How would you collaborate without using Git or GitHub?  What would be easier,
+How would you collaborate without using Git or GitHub?  What would be easier
 and what would be harder?
 
     Fill in your answer here
